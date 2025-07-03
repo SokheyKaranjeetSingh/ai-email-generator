@@ -1,0 +1,13 @@
+# React
+/node_modules/
+/.env
+
+# Java backend (if it exists here)
+/target/
+/build/
+/*.iml
+
+# Common
+.DS_Store
+.idea/
+.vscode/
